@@ -1,27 +1,27 @@
 <!-- Header -->
-<h1 align="center">Hi 👋🏾, I'm Mcdavis Albertio</h1>
+<h1 align="center">Hi, I'm Mcdavis Albertio</h1>
 <h3 align="center">Turning purpose into code | Building real world solutions</h3>
 
 <!-- Intro -->
 <p align="center">
-  🚀 Full-Stack Developer<br>
-  🇬🇭 Passionate about tech solutions for <strong>real-world impact</strong><br>
-  🌱 Currently mastering <code>React.js</code>, <code>Node.js</code>, <code>MySQL</code><br>
+   Full-Stack Developer<br>
+   Passionate about tech solutions for <strong>real-world impact</strong><br>
+   Currently mastering <code>React.js</code>, <code>Node.js</code>, <code>MySQL</code><br>
 </p>
 
 ---
 
-### 🔧A Bit More About Me
+### A Bit More About Me
 
-- 🎯 **Mission:** Build digital solutions that empower communities and bridge economic gaps  
-- ✈️ **Co-Founder of Afafanto** – a tourism & volunteering platform connecting the world to authentic Ghanaian experiences   
-- 🧠 Obsessed with turning ideas into clean, functional code  
-- 📫 Email: **mcdavis705@gmail.com**  
-- 💼 LinkedIn: [Mcdavis Albertio](https://www.linkedin.com/in/mcdavisalbertio/)  
+- **Mission:** Build digital solutions that empower communities and bridge economic gaps  
+- **Co-Founder of Afafanto** – a tourism & volunteering platform connecting the world to authentic Ghanaian experiences   
+- Obsessed with turning ideas into clean, functional code  
+- Email: **mcdavis705@gmail.com**  
+- LinkedIn: [Mcdavis Albertio](https://www.linkedin.com/in/mcdavisalbertio/)  
 
 ---
 
-### 🔨 Tech I Work With
+### Tech Stack I Work With
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
@@ -33,15 +33,15 @@
 
 ---
 
-### 🧠 What i am working on rightnow
+###What i am working on rightnow
 
-- 🌐 **Afafanto** – Travel meets purpose: connecting travelers with culture & volunteering in Ghana  
-- 📸 **PhotoShare Web App** – A custom media portal for church event galleries using Google Drive API  
+- **Afafanto** – Travel meets purpose: connecting travelers with culture & volunteering in Ghana  
+- **PhotoShare Web App** – A custom media portal for church event galleries using Google Drive API  
 
 
 ---
 
-### 📈 GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mcdavis705&show_icons=true&theme=dracula" alt="GitHub stats"/>
