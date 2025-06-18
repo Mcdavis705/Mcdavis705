@@ -21,7 +21,7 @@
 
 ---
 
-### Tech Stack I Work With
+Tech Stack 
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
@@ -33,7 +33,7 @@
 
 ---
 
-###What i am working on rightnow
+What i am working on rightnow
 
 - **Afafanto** – Travel meets purpose: connecting travelers with culture & volunteering in Ghana  
 - **PhotoShare Web App** – A custom media portal for church event galleries using Google Drive API  
@@ -41,7 +41,7 @@
 
 ---
 
-### GitHub Activity
+GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mcdavis705&show_icons=true&theme=dracula" alt="GitHub stats"/>
@@ -50,9 +50,9 @@
 
 ---
 
-### 🌐 Let's keep in touch
+Let's keep in touch
 
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/mcdavisalbertio/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
@@ -62,8 +62,7 @@
 </p>
 
 ---
-
-### 💬 This keeps me going!
+This keeps me going!
 
 > “Hardwork beats Talent if Talent fails to work hard.”  
 > — Kevin Durant <em>Nba Player</em>
